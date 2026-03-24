@@ -14,15 +14,6 @@ For CSA4028: Natural Language Processing.
 | 23BAI10620          | SHREYA GOYAL      |
 | 23BAI10847          | ASHISH VISHWAKARMA|
 ---
-**Core concepts used from NLP Syllabus:**
-- Sentence Segmentation (Discourse segmentation)
-- POS Tagging (Syntax Parsing)
-- Sliding Window Analysis (Temporal NLP)
-- Sentiment Scoring (Models & Algorithms)
-- Emotion tracking with lexicon (lexicon dictionary)
-- Regular Expressions (Text Cleaning)
-
-Code is highly commented for demonstration purposes in class.
 
 ## Demo
 Demo notebook is `emotional_drift_demo.ipnyb` and walks through the process.
